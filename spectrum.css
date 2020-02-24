@@ -1,0 +1,37 @@
+body {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+}
+
+
+td{
+  background-color: black;
+  height: 200px;
+  width: 100px;
+  border: 6px solid white;
+
+  }
+h1{
+    text-align: center;
+}
+p{
+  font-family: 'Trade Winds', ;
+}
+.art{
+  margin: auto;
+}
+#one{
+  background-color: #2A8041;
+}
+#two{
+  background-color: #DDD8C2;
+}
+#three{
+  background-color: #FFB615;
+}
+#four{
+  background-color: #FE5C2B;
+}
+#five {
+  background-color: #9D6720;
+}
